@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>152164213746-7k5283sfji4hrnamo5m79ojfh2uh9dbn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.152164213746-7k5283sfji4hrnamo5m79ojfh2uh9dbn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDlRxwKlSed8Df7ySOlNEjiy4n2fN-CK4M</string>
+	<key>GCM_SENDER_ID</key>
+	<string>152164213746</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.mindmeetapp</string>
+	<key>PROJECT_ID</key>
+	<string>banded-4ee14</string>
+	<key>STORAGE_BUCKET</key>
+	<string>banded-4ee14.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:152164213746:ios:cc3f51d8fabb9e05ca816b</string>
+	<key>DATABASE_URL</key>
+	<string>https://banded-4ee14.firebaseio.com</string>
+</dict>
+</plist>
