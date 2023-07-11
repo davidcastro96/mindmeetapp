@@ -122,7 +122,8 @@ class RegisterPage extends StatefulWidget {
 class _RegisterPageState extends State<RegisterPage> {
   Set<String> _selectedInterests = Set<String>();
   List<String> _interests = ['Interés 1', 'Interés 2', 'Interés 3'];
-  DateTime? _selectedDate; // Agrega el signo de interrogación (?) para permitir nulos
+  DateTime?
+      _selectedDate; // Agrega el signo de interrogación (?) para permitir nulos
   String? _selectedInterest;
 
   @override

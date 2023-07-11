@@ -70,7 +70,8 @@ class DefaultFirebaseOptions {
     projectId: 'banded-4ee14',
     databaseURL: 'https://banded-4ee14.firebaseio.com',
     storageBucket: 'banded-4ee14.appspot.com',
-    iosClientId: '152164213746-7k5283sfji4hrnamo5m79ojfh2uh9dbn.apps.googleusercontent.com',
+    iosClientId:
+        '152164213746-7k5283sfji4hrnamo5m79ojfh2uh9dbn.apps.googleusercontent.com',
     iosBundleId: 'com.example.mindmeetapp',
   );
 
@@ -81,7 +82,8 @@ class DefaultFirebaseOptions {
     projectId: 'banded-4ee14',
     databaseURL: 'https://banded-4ee14.firebaseio.com',
     storageBucket: 'banded-4ee14.appspot.com',
-    iosClientId: '152164213746-7k5283sfji4hrnamo5m79ojfh2uh9dbn.apps.googleusercontent.com',
+    iosClientId:
+        '152164213746-7k5283sfji4hrnamo5m79ojfh2uh9dbn.apps.googleusercontent.com',
     iosBundleId: 'com.example.mindmeetapp',
   );
 }
